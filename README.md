@@ -1,12 +1,12 @@
 # Reading Notes
 
-## Code 102
+## Code 102 - Intro to Software Development
 
-### Intro to Software Development
+### I did not take this class
 
-## Code 201
+## Code 201 - Foundations of Software Development
 
-### Foundations of Software Development
+### I did not take this class
 
 ## Code 301
 
@@ -21,11 +21,13 @@
 
 </details>
 
-### class 01
-
 ## Code 401
 
 ### Advanced Software Development
+
+<details close><summary>Classes</summary>
+
+</details>
 
 #### This is a compilation of reading notes from my code fellows courses
 
