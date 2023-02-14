@@ -29,6 +29,8 @@
 
 </details>
 
+<br>*5
+
 #### This is a compilation of reading notes from my code fellows courses
 
 #### Helpful links for writing markdown [Markdown on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
