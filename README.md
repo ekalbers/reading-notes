@@ -29,7 +29,7 @@
 
 </details>
 
-<br>*5
+<br><br><br>
 
 #### This is a compilation of reading notes from my code fellows courses
 
