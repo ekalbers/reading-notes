@@ -4,7 +4,7 @@
 
 ### About Me:
 
-#### Hi, I'm Ethan, I am a Code Fellows student and Code 301 is the first course I am Taking with Code Fellows. I am 25 years old and just got out of the military in November.
+#### Hi, I'm Ethan and Code 301 is the first course I am Taking with Code Fellows. I am 25 years old and just got out of the military in November. I enjoy the outdoors and a good podcast or audiobook.
 
 ## TOC
 
