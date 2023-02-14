@@ -24,4 +24,5 @@
 4. What are some examples of things that we could store in state?
   - Things that will be changed or updated by the user should be stored in state.
 
-
+## Things I want to know more about:
+### I may have missed it in a lecture, but I was a little unsure about exactly what was going on with super() while working on the lab for class 01.
