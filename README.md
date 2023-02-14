@@ -1,16 +1,16 @@
-# Reading Notes
+# Reading Notes for Ethan Albers
 
-## Code 102 - Intro to Software Development
+<img src="Headshot.jpeg" height=250px>
 
-### I did not take this class
+### About Me:
 
-## Code 201 - Foundations of Software Development
+#### Hi, I'm Ethan, I am a Code Fellows student and Code 301 is the first course I am Taking with Code Fellows. I am 25 years old and just got out of the military in November.
 
-### I did not take this class
+## TOC
 
-## Code 301
+### Code 301
 
-### Intermediate Software Development
+#### Intermediate Software Development
 
 <details close><summary>Classes</summary>
 
@@ -21,9 +21,9 @@
 
 </details>
 
-## Code 401
+### Code 401
 
-### Advanced Software Development
+#### Advanced Software Development
 
 <details close><summary>Classes</summary>
 
