@@ -1,5 +1,7 @@
 # State and Props
 
+### State and props from are essential to working with react and knowing the difference between the two and how they work within components will be necessary to creating meaningful complex applications.
+
 ## Reading
 ### [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
