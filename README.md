@@ -18,6 +18,8 @@
 <br>
 <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class02.md">Class 02 - State and Props</a>
 <br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class03.md">Class 03 - Passing Functions as Props</a>
+<br>
 
 </details>
 
