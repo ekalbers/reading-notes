@@ -9,16 +9,15 @@
 2. What are the characteristics of a component?
   - Reusable, Replaceable
 3. What are the advantages of using component-based architecture?
-  -
-
+  - There are a lot of advantages including the fact that becuase it is modular by nature you can update and change one part of a project without it affecting the rest of the project.
 #### [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 1. What is "props" short for?
-  -
+  - properties
 2. How are props used in react?
-  -
+  - props are used for passing data between components
 3. What is the flow of props?
-  -
+  - from parent to child component
 
 
 ### Things I want to know more about:
-#### I may have missed it in a lecture, but I was a little unsure about exactly what was going on with super() while working on the lab for class 01.
+####
