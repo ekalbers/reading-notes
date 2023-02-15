@@ -67,4 +67,4 @@ console.log(fullName) // Object { first: 'Ethan', last: 'Albers' }
   - by calling it the same way you would call any other prop, this.prop.function().
 
 ## Things I want to know more about:
-
+### 
