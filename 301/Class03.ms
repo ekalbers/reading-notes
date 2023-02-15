@@ -1,2 +1,0 @@
-# Passing Functions as Props
-
