@@ -1,4 +1,4 @@
-# Putting it all togethe
+# Putting it all together
 
   - These readings help us to understand the most optimal way for structuring our apps as well as exploring higher-order functions to help us understand how certain functions work and the benefits of writing functions that way.
 
