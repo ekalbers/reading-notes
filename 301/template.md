@@ -5,25 +5,27 @@
 ## Readings
 ### [Title](HTML)
 1. Questions
-  - answer
+  - 
 2. Question
-  - answer
+  - 
 3. Question
-  - answer
+  - 
 4. Question
-  - answer
+  - 
 
 ## Videos
 ### [Title](HTML)
 1. Questions
-  - answer
+  - 
 2. Question
-  - answer
+  - 
 3. Question
-  - answer
+  - 
 4. Question
-  - answer
+  - 
 
 
-## Things I want to know more about:
-### 
+### Things I want to know more about:
+  -
+
+open projects/courses/code-301/seattle-code-301d96/class-##/DISCUSSION.md
