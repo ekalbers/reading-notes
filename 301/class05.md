@@ -28,4 +28,4 @@
   - map creates a new array by applying a given function to every value within the array being mapped.
 
 ### Things I want to know more about:
-  - I would like to understand more about higher-order functions. I think I understand but the last question made me question it a little bit becuase I wasn't sure how to explaine it 'with regards to higher-order functions'
+  - I would like to understand more about higher-order functions. I think I understand but the last question made me question it a little bit because I wasn't sure how to explain it 'with regards to higher-order functions'.
