@@ -24,6 +24,8 @@
 <br>
 <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class05.md">Class 05 - Putting it all together</a>
 <br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class06.md">Class 06 - NODE.JS</a>
+<br>
 
 </details>
 
