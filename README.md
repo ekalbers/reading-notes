@@ -26,6 +26,10 @@
 <br>
 <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class06.md">Class 06 - NODE.JS</a>
 <br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class07.md">Class 07</a>
+<br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class08.md">Class 08</a>
+<br>
 
 </details>
 
