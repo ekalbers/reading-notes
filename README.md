@@ -32,7 +32,7 @@
 <br>
   <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class09.md">Class 09</a>
 <br>
-  <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class010.md">Class 10 - In memory storage</a>
+  <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class10.md">Class 10 - In memory storage</a>
 <br>
 
 </details>
