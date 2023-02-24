@@ -30,6 +30,8 @@
 <br>
 <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class08.md">Class 08</a>
 <br>
+  <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class09.md">Class 09</a>
+<br>
 
 </details>
 
