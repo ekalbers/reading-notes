@@ -1,7 +1,5 @@
 # MongoDB and Mongoose
 
-### Summary of Why Reading are Relevant
-
 ## Readings
 ### [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 1. Fill in the chart below with five differences between SQL and NoSQL databases:
@@ -32,24 +30,18 @@
 1. What does SQL stand for?
   - Structured Query Language
 2. What is a relational database?
-  - 
+  - A database that works with multiple sets of data that are related
 3. What type of structure does a relational database work with?
-  - 
+  - Table Structure
 4. What is a ‘schema’?
-  -
+  - Rules about what types of data can go in a table
 5. What is a NoSQL database?
-  -
+  - A database that is designed to store large amounts of data
 6. How does it work?
-  -
+  - it has collections and documents within a collection.
 7. What is inside of a MongoDB database?
-  -
+  - Collections and Documents
 8. Which is more flexible - SQL or MongoDB? and why.
-  -
+  - MongoDB, becuase there is no schema and no relations
 9. What is the disadvantage of a NoSQL database?
-  -
-
-
-### Things I want to know more about:
-  -
-
-open projects/courses/code-301/seattle-code-301d96/class-##/DISCUSSION.md
+  - It is less structured and does not have relations between data.
