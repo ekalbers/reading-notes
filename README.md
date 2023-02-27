@@ -34,6 +34,9 @@
 <br>
   <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class10.md">Class 10 - In memory storage</a>
 <br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class11.md">Class 11 - 
+MongoDB and Mongoose</a>
+<br>
 
 </details>
 
