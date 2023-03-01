@@ -12,9 +12,9 @@
 ## Videos
 ### [Speed Coding: Building a CRUD API](https://www.youtube.com/watch?v=EzNcBhSv1Wo)
 1. What’s the relationship between REST and CRUD?
-  - 
+  - Rest is are http command to update and create data, Crud is for maniputlation data.
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
-  -
+  - 
 
 
 ### Things I want to know more about:
