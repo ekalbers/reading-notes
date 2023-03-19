@@ -30,12 +30,20 @@
 <br>
 <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class08.md">Class 08</a>
 <br>
-  <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class09.md">Class 09</a>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class09.md">Class 09</a>
 <br>
-  <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class10.md">Class 10 - In memory storage</a>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class10.md">Class 10 - In memory storage</a>
 <br>
 <a href="https://github.com/ekalbers/reading-notes/blob/main/301/class11.md">Class 11 - 
 MongoDB and Mongoose</a>
+<br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class12.md">Class 12</a>
+<br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class13.md">Class 13</a>
+<br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class014.md">Class 14</a>
+<br>
+<a href="https://github.com/ekalbers/reading-notes/blob/main/301/class15.md">Class 15</a>
 <br>
 
 </details>
