@@ -54,6 +54,9 @@ MongoDB and Mongoose</a>
 
 <details close><summary>Classes</summary>
 
+<a href="https://github.com/ekalbers/reading-notes/blob/main/401/SQL%20prework/assignmentSubmit.md">sql</a>
+<br>
+
 </details>
 
 <br><br><br>
