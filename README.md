@@ -54,8 +54,12 @@ MongoDB and Mongoose</a>
 
 <details close><summary>Classes</summary>
 
-<a href="https://github.com/ekalbers/reading-notes/blob/main/401/SQL%20prework/assignmentSubmit.md">sql</a>
-<br>
+- [SQL Prework](./401/SQL%20prework/assignmentSubmit.md)
+- [Terminal Prework](./401/terminal.md)
+- [Class01](./401/class01.md)
+- [Class02 - Testing and Modules](./401/class02.md)
+- [Class03 - FileIO & Exceptions](./401/class03.md)
+
 
 </details>
 

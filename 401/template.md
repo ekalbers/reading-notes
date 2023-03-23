@@ -26,6 +26,3 @@
 
 
 ### Things I want to know more about:
-  -
-
-open projects/courses/code-301/seattle-code-301d96/class-##/DISCUSSION.md
