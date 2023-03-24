@@ -59,6 +59,7 @@ MongoDB and Mongoose</a>
 - [Class01](https://github.com/ekalbers/reading-notes/blob/main/401/class01.md)
 - [Class02 - Testing and Modules](https://github.com/ekalbers/reading-notes/blob/main/401/class02.md)
 - [Class03 - FileIO & Exceptions](https://github.com/ekalbers/reading-notes/blob/main/401/class03.md)
+- [Class04](https://github.com/ekalbers/reading-notes/blob/main/401/class04.md)
 
 
 </details>
